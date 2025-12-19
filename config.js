@@ -1,13 +1,13 @@
 window.V2BOARD_CONFIG = {
-  DEFAULT_API_URL: '', // 后端API地址
+  DEFAULT_API_URL: 'https://be.otkul.com', // 后端API地址
 
   // 应用标题
-  APP_TITLE: '',
+  APP_TITLE: 'OTKUL',
 
   // 落地页配置
   LANDING_PAGE: {
     // 是否启用落地页
-    ENABLED: false,
+    ENABLED: ture,
 
     // 落地页主题选择
     // 可选值：'malio', 'zhujike', 'cool', 'wukong'
